@@ -1,6 +1,8 @@
 def main():
     print("Hallo Leden!")
 
+def conflict():
+    print("Dit is een conflict.")
 
 def test():
     print("Test")
@@ -23,4 +25,4 @@ def gaussian(x, mu, sigma):
 
 
 if __name__ == "__main__":
-    main()
+    conflict()
